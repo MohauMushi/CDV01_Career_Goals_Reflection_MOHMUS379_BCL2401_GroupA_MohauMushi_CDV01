@@ -1,47 +1,50 @@
 
 # Career Goals Reflection Template
 
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
-
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** MOHAU MUSHI
+- **Date:** 03 MARCH 2024
+- **Current Role/Position:** Software Engineer Student at CodeSpace Academy
+- **Field of Interest:** Full-Stack developer
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
+      - As a software engineering student with an interest in becoming a full stack developer, my current skills and areas of expertise include front-end development technologies such as 
+       HTML, CSS, and JavaScript.
     - Identify skills you need to develop or improve.
+      - Skills that I need to develop or improve to become a proficient full stack developer. These include gaining a deeper understanding of databases and working with SQL and NoSQL databases and
+        Modern JavaScript frameworks like React, Node.js, database administration
+      
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
+      - My key interests related to my career as a full stack developer include building interactive and user-friendly web applications, designing and implementing scalable backend systems, and staying updated 
+        with the latest technologies and frameworks in the web development industry
     - What values are important to you in a work environment?
+      - In a work environment, I value creativity, collaboration, and continuous learning. I believe in working in a team that encourages innovative thinking, fosters open communication, and provides 
+        opportunities for personal and professional growth
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+      - I have explored various industries and roles within the field of full stack development. Some of the industries I have researched include e-commerce, fintech, healthcare, and media. Within these 
+        industries, I have looked into roles such as full stack developer, web developer, and software engineer
     - Note any particular areas that piqued your interest.
+      - The areas that piqued my interest includes 
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+      -  The industries and roles I have explored align well with my skills, interests, and values as a full stack developer. Building web applications and working on projects that have a direct impact on users 
+         align with my interest in creating meaningful and interactive experiences. Collaborating with cross-functional teams and continuously learning new technologies align with my values of collaboration and 
+         continuous learning
     - Identify any gaps or areas for further exploration.
+      - 
 
 ### Part 3: SMART Career Goals
 
@@ -76,12 +79,5 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Highlight any opportunities you can leverage for career growth.
     - Include networking, mentorship, or educational opportunities.
 
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
 
 
