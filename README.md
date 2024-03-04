@@ -4,7 +4,7 @@
 ### Personal Information
 
 - **Name:** MOHAU MUSHI
-- **Date:** 03 MARCH 2024
+- **Date:** 04 MARCH 2024
 - **Current Role/Position:** Software Engineer Student at CodeSpace Academy
 - **Field of Interest:** Full-Stack developer
 
@@ -122,7 +122,7 @@
     
     - Detail specific actions or steps needed to achieve each short-term goal.
       
-        **For the internship or co-op placement goal**
+      **For the internship or co-op placement goal**
       - Research and apply for internships or co-op programs at companies that focus on full 
         stack development.
       - Enhance my resume and cover letter highlighting my relevant skills and experiences.
@@ -131,13 +131,13 @@
       - Network with professionals in the industry through career fairs, online platforms, and 
         industry events
      
-        **For expanding knowledge in databases**
+      **For expanding knowledge in databases**
       - Take relevant courses or online tutorials to learn about SQL and NoSQL databases.
       - Work on personal projects that involve database integration and optimization.
       - Seek guidance from professors or industry professionals to gain insights into best 
         practices in database management.
 
-        **For developing expertise in server management and deployment:**
+      **For developing expertise in server management and deployment:**
       - Learn about cloud technologies such as AWS or Azure through online resources and 
         tutorials.
       - Practice deploying web applications to cloud platforms, ensuring scalability and 
@@ -160,17 +160,17 @@
         challenge websites, and mock interview resources to enhance your technical interview 
         skills and problem-solving abilities.
       - **Networking Opportunities:** Engage in networking activities such as career fairs, 
-       industry events, and online platforms to connect with professionals in the software 
-       development industry. Building a professional network can provide valuable insights and 
-       potential internship opportunities.
+         industry events, and online platforms to connect with professionals in the software 
+         development industry. Building a professional network can provide valuable insights and 
+         potential internship opportunities.
       - **Mentorship and Guidance:** Seek mentorship or guidance from professors, industry 
-       professionals, or alumni who have experience in software development. Their insights 
-       and advice can provide valuable support as you navigate the internship application and 
-       preparation process.
+         professionals, or alumni who have experience in software development. Their insights 
+         and advice can provide valuable support as you navigate the internship application and 
+         preparation process.
       - **Continuous Learning and Professional Development:** Dedicate time to continuous 
-      learning and professional development by attending workshops, seminars, and online 
-      courses related to software development. Staying updated with industry trends and best 
-      practices is essential for success in the field.
+        learning and professional development by attending workshops, seminars, and online 
+        courses related to software development. Staying updated with industry trends and best 
+        practices is essential for success in the field.
 1. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
@@ -184,7 +184,7 @@
       - Seek mentorship or guidance from experienced full stack developers or project managers.
      
     
-    **For contributing to open-source projects and participating in the developer 
+      **For contributing to open-source projects and participating in the developer 
          community:**
       - Explore open-source projects that align with my interests and contribute code or 
           documentation.
@@ -194,7 +194,7 @@
           experts.
        
           
-    **For staying updated with the latest technologies and frameworks:**
+      **For staying updated with the latest technologies and frameworks:**
       - Set aside time each week to read tech blogs, watch tutorials, and explore new tools 
            and frameworks.
       - Join online communities and follow influencers in the full stack development space.
